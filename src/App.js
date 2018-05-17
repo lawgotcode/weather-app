@@ -50,7 +50,6 @@ class App extends React.Component {
          <div className="container">
           <div className="row">
            <div className="col-xs-5 title-container">
-            <div className="col-xs-6">
             <Titles/>
           </div>
           <div className="col-xs-7 form-container">
@@ -69,7 +68,7 @@ class App extends React.Component {
         </div>
        </div>
       </div>
-    </div>
+    
       );
   }
 };
